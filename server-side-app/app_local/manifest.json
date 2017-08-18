@@ -1,0 +1,17 @@
+{
+  "name": "server-side-app",
+  "author": {
+    "name": "muhamuttaqien",
+    "email": "angga.muttaqien@ruma.co.id",
+    "url": ""
+  },
+  "defaultLocale": "en",
+  "private": true,
+  "location": {
+    "support": {
+      "ticket_sidebar": "http://localhost:8080/sidebar?app_guid=f278bc69-6098-aab88a5ec49f&origin=https%3A%2F%2Fomniwear.zendesk.com"
+    }
+  },
+  "version": "1.0",
+  "frameworkVersion": "2.0"
+}
