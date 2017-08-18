@@ -1,0 +1,17 @@
+{
+  "name": "Requester X-Ray",
+  "author": {
+    "name": "muhamuttaqien",
+    "email": "angga.muttaqien@ruma.co.id",
+    "url": ""
+  },
+  "defaultLocale": "en",
+  "private": true,
+  "location": {
+    "support": {
+      "ticket_sidebar": "assets/iframe.html"
+    }
+  },
+  "version": "1.0",
+  "frameworkVersion": "2.0"
+}
